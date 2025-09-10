@@ -1,0 +1,15 @@
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\bin\Debug\net8.0\Trendyol.exe
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\bin\Debug\net8.0\Trendyol.deps.json
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\bin\Debug\net8.0\Trendyol.runtimeconfig.json
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\bin\Debug\net8.0\Trendyol.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\bin\Debug\net8.0\Trendyol.pdb
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\obj\Debug\net8.0\Trendyol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\obj\Debug\net8.0\Trendyol.AssemblyInfoInputs.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\obj\Debug\net8.0\Trendyol.AssemblyInfo.cs
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\obj\Debug\net8.0\Trendyol.csproj.CoreCompileInputs.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\obj\Debug\net8.0\Trendyol.sourcelink.json
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\obj\Debug\net8.0\Trendyol.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\obj\Debug\net8.0\refint\Trendyol.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\obj\Debug\net8.0\Trendyol.pdb
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\obj\Debug\net8.0\Trendyol.genruntimeconfig.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-01\Trendyol\Trendyol\obj\Debug\net8.0\ref\Trendyol.dll
