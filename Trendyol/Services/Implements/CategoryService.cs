@@ -1,4 +1,6 @@
 ﻿using Trendyol.DTOs.Category;
+using Trendyol.Exceptions.NotFound;
+using Trendyol.Extensions;
 using Trendyol.Models;
 using Trendyol.Services.Interfaces;
 
@@ -27,7 +29,7 @@ namespace Trendyol.Services.Implements
         public string Delete(int categoryId)
         {
             var category = _categories.FirstOrDefault(c => c.Id == categoryId);
-            if (category == null) throw new Exception("Category not found!");
+            if (category == null) throw new CategoryNotFoundException();
 
             _categories.Remove(category);
             return "Category was deleted.";
@@ -37,32 +39,22 @@ namespace Trendyol.Services.Implements
         {
             var categories = _categories.ToList();
             var dtos = new List<CategoryGetDto>();
-            dtos = categories.Select(category => new CategoryGetDto
-            {
-                Id = category.Id,
-                Name = category.Name,
-                ParentId = category.ParentId
-            }).ToList();
+            dtos = categories.Select(category => category.ToCategoryGetDto()).ToList();
             return dtos;
         }
 
         public CategoryGetDto GetSingle(int categoryId)
         {
             var category = _categories.FirstOrDefault(c => c.Id == categoryId);
-            if (category == null) throw new Exception("Category was not found!");
-            var dto = new CategoryGetDto()
-            {
-                Id = category.Id,
-                Name = category.Name,
-                ParentId = category.ParentId
-            };
+            if (category == null) throw new CategoryNotFoundException();
+            var dto = category.ToCategoryGetDto();
             return dto;
         }
 
         public string Update(int categoryId, CategoryUpdateDto dto)
         {
             var category = _categories.FirstOrDefault(c => c.Id == categoryId);
-            if (category == null) throw new Exception("Category not found!");
+            if (category == null) throw new NotFoundException("Category");
             _categories.Remove(category);
 
             category.Name = dto.Name;

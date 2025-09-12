@@ -55,7 +55,7 @@ _categoryService.Create(dto6);
 _categoryService.Create(dto7);
 
 //Console.Write("Category Id: ");
-var categoryId = Convert.ToInt32(Console.ReadLine());
+//var categoryId = Convert.ToInt32(Console.ReadLine());
 //Console.WriteLine(_categoryService.Delete(categoryId));
 
 //var updateDto = new CategoryUpdateDto
@@ -71,5 +71,11 @@ var categoryId = Convert.ToInt32(Console.ReadLine());
 //    Console.WriteLine($"Id: {dto.Id}, Name: {dto.Name}, ParentId: {dto.ParentId}");
 //}
 
-var dto = _categoryService.GetSingle(categoryId);
-Console.WriteLine($"Id: {dto.Id}, Name: {dto.Name}, ParentId: {dto.ParentId}");
+//var dto = _categoryService.GetSingle(categoryId);
+//Console.WriteLine($"Id: {dto.Id}, Name: {dto.Name}, ParentId: {dto.ParentId}");
+
+int number = 3;
+short num = (short)number;
+var varaible = number.ToString(); //"3"
+number = int.Parse(varaible);
+Console.WriteLine(varaible);
