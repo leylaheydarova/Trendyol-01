@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\dtos\\shop\\shopcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\dtos\\shop\\shopcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\repositories\\implements\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\repositories\\implements\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\repositories\\implements\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\repositories\\implements\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\services\\implements\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,52 +27,40 @@
       "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\services\\interfaces\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\extensions\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\extensions\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\repositories\\implements\\shoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\repositories\\implements\\shoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\exceptions\\notfound\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\exceptions\\notfound\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\repositories\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\repositories\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\exceptions\\notfound\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\exceptions\\notfound\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\dtos\\category\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\dtos\\category\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\repositories\\interfaces\\ishoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\repositories\\interfaces\\ishoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\models\\productshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\models\\productshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\trendyol\\trendyol\\dtos\\shop\\shopgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE9DE46-E8C6-4B81-99E0-C19A5A1FAE7E}|Trendyol\\Trendyol.csproj|solutionrelative:trendyol\\dtos\\shop\\shopgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,86 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShopService.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Implements\\ShopService.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Services\\Implements\\ShopService.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Implements\\ShopService.cs",
-              "RelativeToolTip": "Trendyol\\Services\\Implements\\ShopService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T16:35:32.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShopCreateDto.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\DTOs\\Shop\\ShopCreateDto.cs",
-              "RelativeDocumentMoniker": "Trendyol\\DTOs\\Shop\\ShopCreateDto.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\DTOs\\Shop\\ShopCreateDto.cs",
-              "RelativeToolTip": "Trendyol\\DTOs\\Shop\\ShopCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T16:31:51.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IShopService.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Interfaces\\IShopService.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Services\\Interfaces\\IShopService.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Interfaces\\IShopService.cs",
-              "RelativeToolTip": "Trendyol\\Services\\Interfaces\\IShopService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T16:28:47.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Shop.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Models\\Shop.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Models\\Shop.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Models\\Shop.cs",
-              "RelativeToolTip": "Trendyol\\Models\\Shop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:30:19.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "Trendyol\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T15:33:45.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Implements\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Services\\Implements\\CategoryService.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Implements\\CategoryService.cs",
-              "RelativeToolTip": "Trendyol\\Services\\Implements\\CategoryService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T15:36:13.808Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -166,131 +80,178 @@
               "RelativeDocumentMoniker": "Trendyol\\Program.cs",
               "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Program.cs",
               "RelativeToolTip": "Trendyol\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwFMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:15:30.604Z",
+              "WhenOpened": "2025-09-15T15:56:17.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Models\\ProductImage.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Models\\ProductImage.cs",
-              "RelativeToolTip": "Trendyol\\Models\\ProductImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ShopService.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Implements\\ShopService.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Services\\Implements\\ShopService.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Implements\\ShopService.cs",
+              "RelativeToolTip": "Trendyol\\Services\\Implements\\ShopService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:27:09.69Z"
+              "WhenOpened": "2025-09-15T15:50:34.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryCreateDto.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\DTOs\\Category\\CategoryCreateDto.cs",
-              "RelativeDocumentMoniker": "Trendyol\\DTOs\\Category\\CategoryCreateDto.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\DTOs\\Category\\CategoryCreateDto.cs",
-              "RelativeToolTip": "Trendyol\\DTOs\\Category\\CategoryCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Trendyol\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T15:49:42.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T15:47:25.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Implements\\Repository.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Repositories\\Implements\\Repository.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Implements\\Repository.cs",
+              "RelativeToolTip": "Trendyol\\Repositories\\Implements\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:38:46.732Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Models\\Product.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Models\\Product.cs",
-              "RelativeToolTip": "Trendyol\\Models\\Product.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA5wA8AAAAAAAAAAAAAAA==",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Trendyol\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:23:10.491Z"
+              "WhenOpened": "2025-09-15T15:29:10.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShopService.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Interfaces\\IShopService.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Services\\Interfaces\\IShopService.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Interfaces\\IShopService.cs",
+              "RelativeToolTip": "Trendyol\\Services\\Interfaces\\IShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:17:05.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Services\\Interfaces\\IService.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Trendyol\\Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:19:05.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Implements\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Repositories\\Implements\\ProductRepository.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Implements\\ProductRepository.cs",
+              "RelativeToolTip": "Trendyol\\Repositories\\Implements\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:34:32.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Implements\\ShopRepository.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Repositories\\Implements\\ShopRepository.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Implements\\ShopRepository.cs",
+              "RelativeToolTip": "Trendyol\\Repositories\\Implements\\ShopRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:31:50.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Implements\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Services\\Implements\\CategoryService.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Services\\Implements\\CategoryService.cs",
+              "RelativeToolTip": "Trendyol\\Services\\Implements\\CategoryService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:35:29.3Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Mapping.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Extensions\\Mapping.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Extensions\\Mapping.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Extensions\\Mapping.cs",
-              "RelativeToolTip": "Trendyol\\Extensions\\Mapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Implements\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Repositories\\Implements\\CategoryRepository.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Implements\\CategoryRepository.cs",
+              "RelativeToolTip": "Trendyol\\Repositories\\Implements\\CategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T15:42:32.549Z"
+              "WhenOpened": "2025-09-15T15:32:53.624Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CategoryNotFoundException.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Exceptions\\NotFound\\CategoryNotFoundException.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Exceptions\\NotFound\\CategoryNotFoundException.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Exceptions\\NotFound\\CategoryNotFoundException.cs",
-              "RelativeToolTip": "Trendyol\\Exceptions\\NotFound\\CategoryNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Trendyol\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T15:26:42.601Z"
+              "WhenOpened": "2025-09-15T15:24:46.085Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Exceptions\\NotFound\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Exceptions\\NotFound\\NotFoundException.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Exceptions\\NotFound\\NotFoundException.cs",
-              "RelativeToolTip": "Trendyol\\Exceptions\\NotFound\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Trendyol\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T15:30:06.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoryUpdateDto.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\DTOs\\Category\\CategoryUpdateDto.cs",
-              "RelativeDocumentMoniker": "Trendyol\\DTOs\\Category\\CategoryUpdateDto.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\DTOs\\Category\\CategoryUpdateDto.cs",
-              "RelativeToolTip": "Trendyol\\DTOs\\Category\\CategoryUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:38:46.368Z"
+              "WhenOpened": "2025-09-15T15:34:13.422Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Models\\Category.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Models\\Category.cs",
-              "RelativeToolTip": "Trendyol\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Title": "IShopRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Interfaces\\IShopRepository.cs",
+              "RelativeDocumentMoniker": "Trendyol\\Repositories\\Interfaces\\IShopRepository.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Repositories\\Interfaces\\IShopRepository.cs",
+              "RelativeToolTip": "Trendyol\\Repositories\\Interfaces\\IShopRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:16:10.129Z"
+              "WhenOpened": "2025-09-15T15:27:59.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoryGetDto.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\DTOs\\Category\\CategoryGetDto.cs",
-              "RelativeDocumentMoniker": "Trendyol\\DTOs\\Category\\CategoryGetDto.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\DTOs\\Category\\CategoryGetDto.cs",
-              "RelativeToolTip": "Trendyol\\DTOs\\Category\\CategoryGetDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "ShopGetDto.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\DTOs\\Shop\\ShopGetDto.cs",
+              "RelativeDocumentMoniker": "Trendyol\\DTOs\\Shop\\ShopGetDto.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\DTOs\\Shop\\ShopGetDto.cs",
+              "RelativeToolTip": "Trendyol\\DTOs\\Shop\\ShopGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:51:14.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductShop.cs",
-              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Models\\ProductShop.cs",
-              "RelativeDocumentMoniker": "Trendyol\\Models\\ProductShop.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\Trendyol\\Trendyol\\Models\\ProductShop.cs",
-              "RelativeToolTip": "Trendyol\\Models\\ProductShop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:31:06.412Z"
+              "WhenOpened": "2025-09-15T15:18:00.891Z"
             }
           ]
         }

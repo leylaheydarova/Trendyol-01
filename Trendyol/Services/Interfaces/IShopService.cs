@@ -2,9 +2,7 @@
 
 namespace Trendyol.Services.Interfaces
 {
-    public interface IShopService
+    public interface IShopService : IService<ShopCreateDto, ShopGetDto>
     {
-        public string Create(ShopCreateDto dto);
-
     }
 }
