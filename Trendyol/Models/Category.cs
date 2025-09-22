@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
+using Trendyol.Models.BaseModels;
 
 namespace Trendyol.Models
 {
-    public class Category
+    public class Category : BaseEntity
     {
-        public int Id { get; set; }
         public string Name { get; set; }
         [ForeignKey(nameof(Parent))]
         public int? ParentId { get; set; }

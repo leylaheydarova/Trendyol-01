@@ -29,9 +29,9 @@ namespace Trendyol.Services.Implements
             return "Category was created.";
         }
 
-        public string Delete(int categoryId)
+        public string Delete(int id)
         {
-            var category = _repository.GetSingle(categoryId);
+            var category = _repository.GetSingle(id);
             if (category == null) throw new CategoryNotFoundException();
 
             _repository.Remove(category);
@@ -46,9 +46,9 @@ namespace Trendyol.Services.Implements
             return dtos;
         }
 
-        public CategoryGetDto GetSingle(int categoryId)
+        public CategoryGetDto GetSingle(int id)
         {
-            var category = _repository.GetSingle(categoryId);
+            var category = _repository.GetSingle(id);
             if (category == null) throw new CategoryNotFoundException();
             var dto = category.ToCategoryGetDto();
             return dto;

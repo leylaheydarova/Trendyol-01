@@ -27,7 +27,7 @@ namespace Trendyol.Services.Implements
             return "Shop created successfully.";
         }
 
-        public string Delete(int categoryId)
+        public string Delete(int id)
         {
             throw new NotImplementedException();
         }
@@ -37,7 +37,7 @@ namespace Trendyol.Services.Implements
             throw new NotImplementedException();
         }
 
-        public ShopGetDto GetSingle(int categoryId)
+        public ShopGetDto GetSingle(int id)
         {
             throw new NotImplementedException();
         }

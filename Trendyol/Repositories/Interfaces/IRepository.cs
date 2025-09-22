@@ -1,6 +1,8 @@
-﻿namespace Trendyol.Repositories.Interfaces
+﻿using Trendyol.Models.BaseModels;
+
+namespace Trendyol.Repositories.Interfaces
 {
-    public interface IRepository<T> where T : class
+    public interface IRepository<T> where T : BaseEntity
     {
         void Add(T model);
         void Remove(T model);

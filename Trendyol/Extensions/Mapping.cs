@@ -1,4 +1,5 @@
 ﻿using Trendyol.DTOs.Category;
+using Trendyol.DTOs.Product;
 using Trendyol.Models;
 
 namespace Trendyol.Extensions
@@ -13,6 +14,32 @@ namespace Trendyol.Extensions
                 Name = category.Name,
                 ParentId = category.ParentId
             };
+            return dto;
+        }
+
+        public static ProductGetDto ToProductGetDto(this Product product)
+        {
+            var dto = new ProductGetDto()
+            {
+                Id = product.Id,
+                CategoryId = product.CategoryId,
+                Description = product.Description,
+                DiscountPersentage = product.DiscountPersentage,
+                Price = product.Price,
+                Title = product.Title,
+            };
+
+            foreach (var image in product.ProductImages)
+            {
+                var imageDto = new ProductImageGetDto()
+                {
+                    Id = image.Id,
+                    ImageName = image.ImageName,
+                    ImageUrl = image.ImageUrl
+                };
+                dto.ImageDtos.Add(imageDto);
+            }
+
             return dto;
         }
     }

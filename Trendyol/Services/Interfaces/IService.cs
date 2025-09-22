@@ -3,8 +3,8 @@
     public interface IService<TCreateDto, TGetDto>
     {
         string Create(TCreateDto dto);
-        string Delete(int categoryId);
+        string Delete(int id);
         List<TGetDto> GetAll();
-        TGetDto GetSingle(int categoryId);
+        TGetDto GetSingle(int id);
     }
 }

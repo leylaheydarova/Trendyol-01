@@ -1,8 +1,9 @@
-﻿namespace Trendyol.Models
+﻿using Trendyol.Models.BaseModels;
+
+namespace Trendyol.Models
 {
-    public class ProductShop
+    public class ProductShop : BaseEntity
     {
-        public int Id { get; set; }
         public int ProductId { get; set; }
         public Product Product { get; set; }
         public int ShopId { get; set; }
