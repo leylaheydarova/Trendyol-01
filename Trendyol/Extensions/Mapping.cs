@@ -1,5 +1,6 @@
 ﻿using Trendyol.DTOs.Category;
 using Trendyol.DTOs.Product;
+using Trendyol.DTOs.ProductShop;
 using Trendyol.Models;
 
 namespace Trendyol.Extensions
@@ -40,6 +41,17 @@ namespace Trendyol.Extensions
                 dto.ImageDtos.Add(imageDto);
             }
 
+            return dto;
+        }
+
+        public static ProductShopGetDto ToProductGetDto(this ProductShop productShop)
+        {
+            var dto = new ProductShopGetDto()
+            {
+                Id = productShop.Id,
+                ProductId = productShop.ProductId,
+                ShopId = productShop.ShopId
+            };
             return dto;
         }
     }

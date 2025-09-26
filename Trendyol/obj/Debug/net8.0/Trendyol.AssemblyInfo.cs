@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trendyol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d75e15146a30efbe2346374e7c42edfb7effa81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+352fbf3e39761c782ba1864de3d826abef8e9468")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trendyol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trendyol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
